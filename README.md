@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# pothole-
-=======
+
 # 🚀 Pothole-iQ: AI-Powered Pothole Detection & Analysis
 
 Complete pothole detection system using pretrained YOLOv8 segmentation model with severity classification and cost estimation.
